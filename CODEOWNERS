@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sychan-lab
+/src/backend/database.py      @sychan-lab
+/src/backend/routers/auth.py  @sychan-lab
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sychan-lab
